@@ -1,0 +1,39 @@
+html{
+	margin: 0;
+	padding: 0;
+	background-color: #000;
+}
+
+/*Navbar*/
+
+.navItem{
+  text-transform: uppercase;
+  padding-left: 20px;
+}
+
+.navItemLogo{
+}
+
+.nav-link{
+	font-size: 19px;
+}
+
+.logoBadge{
+	width: 35px;
+	height: 35px;
+	float: right;
+}
+
+
+#carouselAccueil{
+	margin-top: 100px;
+	height: 300px;
+	border-radius: 10px;
+}
+.carouselItem{
+	position: absolute;
+}
+
+.imgCarousel{
+	width: 100%;
+}
