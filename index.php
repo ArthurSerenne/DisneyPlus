@@ -60,5 +60,18 @@
 		</div>
 	</section>
 
+	<section id="ligne1">
+		<div class="container-fluid">
+			<h3>Nouveau sur Disney+</h3>
+			<div class="premiereLigne">
+				<img class="imageLigne1" src="images/Accueil/Ligne1/1.jpg">
+				<img class="imageLigne1" src="images/Accueil/Ligne1/2.jpg">
+				<img class="imageLigne1" src="images/Accueil/Ligne1/3.jpg">
+				<img class="imageLigne1" src="images/Accueil/Ligne1/4.jpg">
+				<img class="imageLigne1" src="images/Accueil/Ligne1/5.jpg">
+			</div>
+		</div>
+	</section>
+
 </body>
 </html>

@@ -2,6 +2,8 @@ body{
 	background-color: #0C0326;
 }
 
+/*SECTION 1*/
+
 #carouselAccueil{
 	width: 90%;
 	margin: 40px auto;
@@ -12,9 +14,11 @@ body{
 	border-radius: 5px;
 }
 
+/*SECTION 2 */
 
 #listeMarque{
-	background-color: red;
+	width: 100%;
+	height: 300px;
 }
 
 .icon1{
@@ -30,4 +34,22 @@ body{
 	border: 3px solid grey;
 	float: left;
 	margin-left: 40px;
+}
+
+/*SECTION 3*/
+
+#ligne1{
+	width: auto;
+	height: auto;
+}
+
+h3{
+	margin-left: 40px;
+	color: #FFF;
+}
+
+.imageLigne1{
+	width: 280px;
+	height: 180px;
+	float: left;
 }
