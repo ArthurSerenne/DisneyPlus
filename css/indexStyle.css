@@ -5,20 +5,21 @@ body{
 /*SECTION 1*/
 
 #carouselAccueil{
-	width: 90%;
-	margin: 40px auto;
-	box-shadow: 10px 5px 5px #000;
+	width: 100%;
+	height: auto;
 }
 
-#carouselAccueil img{
+.carousel img{
 	border-radius: 5px;
+	margin-top: 50px;
+	margin-bottom: 40px;
 }
 
 /*SECTION 2 */
 
 #listeMarque{
 	width: 100%;
-	height: 300px;
+	height: auto;
 }
 
 .icon1{
@@ -26,30 +27,118 @@ body{
 	height: 120px;
 }
 
-.iconMarque{
-	width: 200px;
-	height: 120px;
+.iconMarque1{
+	width: 220px;
+	height: 130px;
 	background-color: #454545;
 	border-radius: 10px;
 	border: 3px solid grey;
-	float: left;
-	margin-left: 40px;
+	margin-bottom: 30px;
+	margin-top: 5px;
 }
+
+.iconMarque2{
+	width: 220px;
+	height: 130px;
+	background-color: #454545;
+	border-radius: 10px;
+	border: 3px solid grey;
+	margin-bottom: 30px;
+	margin-top: 5px;
+}
+
+.iconMarque3{
+	width: 220px;
+	height: 130px;
+	background-color: #454545;
+	border-radius: 10px;
+	border: 3px solid grey;
+	margin-bottom: 30px;
+	margin-top: 5px;
+}
+
+.iconMarque4{
+	width: 220px;
+	height: 130px;
+	background-color: #454545;
+	border-radius: 10px;
+	border: 3px solid grey;
+	margin-bottom: 30px;
+	margin-top: 5px;
+}
+
+.iconMarque5{
+	width: 220px;
+	height: 130px;
+	background-color: #454545;
+	border-radius: 10px;
+	border: 3px solid grey;
+	margin-bottom: 30px;
+	margin-top: 5px;
+}
+
+.iconMarque6{
+	width: 220px;
+	height: 130px;
+	background-color: #454545;
+	border-radius: 10px;
+	border: 3px solid grey;
+	margin-bottom: 30px;
+	margin-top: 5px;
+}
+
+
 
 /*SECTION 3*/
 
 #ligne1{
-	width: auto;
+	width: 100%;
 	height: auto;
+	position: absolute;
 }
 
 h3{
-	margin-left: 40px;
+	margin-left: 10px;
 	color: #FFF;
 }
 
 .imageLigne1{
-	width: 280px;
-	height: 180px;
+	width: 260px;
+	height: 160px;
 	float: left;
+	margin-left: 15px;
+	margin-bottom: 20px;
+}
+
+
+
+#ligne2{
+	width: 100%;
+	height: auto;
+	position: absolute;
+}
+
+.imageLigne2{
+	width: 260px;
+	height: 160px;
+	float: left;
+	margin-left: 15px;
+	margin-bottom: 20px;
+}
+
+
+
+
+#ligne3{
+	width: 100%;
+	height: auto;
+	position: absolute;
+}
+
+.imageLigne3{
+	width: 260px;
+	height: 160px;
+	float: left;
+	margin-left: 15px;
+	margin-bottom: 20px;
 }
