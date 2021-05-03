@@ -8,6 +8,7 @@
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
+	<link rel="stylesheet" type="text/css" href="css/indexStyle.css">
 </head>
 <body>
 
@@ -20,10 +21,9 @@
 			<div class="carousel-inner">
 				<div class="carousel-item active">
 					<img class="d-block w-100" src="images/Accueil/Diaporama/1.jpg" alt="First slide">
-					<img class="d-block w-100" src="images/Accueil/Diaporama/1.png" alt="First slide">
 				</div>
-				<div class="carousel-item">
-					<img class="d-block w-100" src="images/Accueil/Diaporama/2.jpg" alt="Second slide">
+				<div class="carousel-item active">
+					<img class="d-block w-100" src="images/Accueil/Diaporama/1.png" alt="Second slide">
 				</div>
 			</div>
 			<a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
@@ -34,6 +34,29 @@
 				<span class="carousel-control-next-icon" aria-hidden="true"></span>
 				<span class="sr-only">Next</span>
 			</a>
+		</div>
+	</section>
+
+	<section id="listeMarque">
+		<div class="container-fluid">
+			<div class="iconMarque">
+				<img class="icon1" src="images/Accueil/Marques/1.png">
+			</div>
+			<div class="iconMarque">
+				<img class="icon1" src="images/Accueil/Marques/2.png">
+			</div>
+			<div class="iconMarque">
+				<img class="icon1" src="images/Accueil/Marques/3.png">
+			</div>
+			<div class="iconMarque">
+				<img class="icon1" src="images/Accueil/Marques/4.png">
+			</div>
+			<div class="iconMarque">
+				<img class="icon1" src="images/Accueil/Marques/5.png">
+			</div>
+			<div class="iconMarque">
+				<img class="icon1" src="images/Accueil/Marques/6.png">
+			</div>
 		</div>
 	</section>
 
