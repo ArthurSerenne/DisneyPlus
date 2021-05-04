@@ -93,8 +93,7 @@ body{
 
 #ligne1{
 	width: 100%;
-	height: auto;
-	position: absolute;
+	height: 250px;
 }
 
 h3{
@@ -114,8 +113,7 @@ h3{
 
 #ligne2{
 	width: 100%;
-	height: auto;
-	position: absolute;
+	height: 250px;
 }
 
 .imageLigne2{
@@ -131,7 +129,7 @@ h3{
 
 #ligne3{
 	width: 100%;
-	height: auto;
+	height: 250px;
 	position: absolute;
 }
 
