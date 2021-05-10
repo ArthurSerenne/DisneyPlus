@@ -89,7 +89,7 @@
 		</div>
 	</section>
 
-	<section id="ligne2">
+	<!-- <section id="ligne2">
 		<div class="container-fluid">
 			<h3>Nouveau sur Disney+</h3>
 			<div class="premiereLigne">
@@ -113,7 +113,7 @@
 				<img class="imageLigne3" src="images/Accueil/Ligne3/5.jpg">
 			</div>
 		</div>
-	</section>
+	</section> -->
 
 	<?php
 	require("footer.php")
